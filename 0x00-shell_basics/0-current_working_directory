@@ -1,1 +1,4 @@
-current file
+#!/bin/bash
+
+echo "current file"
+
